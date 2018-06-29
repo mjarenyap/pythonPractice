@@ -15,4 +15,4 @@ def blackjack(a, b):
 print("Type 2 numbers: ")
 a = int(input(""))
 b = int(input(""))
-print(blackjack(a, b));
+print(blackjack(a, b))
